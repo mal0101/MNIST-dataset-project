@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "MNIST-dataset-project",
+			"path": "."
+		},
+		{
+			"name": "digits",
+			"path": "../../../Desktop/digits"
+		}
+	],
+	"settings": {}
+}
